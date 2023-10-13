@@ -1,1 +1,9 @@
 this is a file to test the git demos.
+1. git folder
+2. git init command
+3. git status
+4. add file in git - git add file_name
+5. git log //show the commits or activity log
+6. to commit - git commit -m "meaningful text"
+7. to commit the changes made in a file - git add .
+8. see commit in one line - git log --oneline
