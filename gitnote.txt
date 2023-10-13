@@ -7,3 +7,4 @@ this is a file to test the git demos.
 6. to commit - git commit -m "meaningful text"
 7. to commit the changes made in a file - git add .
 8. see commit in one line - git log --oneline
+9. 
